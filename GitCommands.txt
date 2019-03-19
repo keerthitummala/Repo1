@@ -1,0 +1,13 @@
+git init - initializes git on the path given
+git status - to check the status of the folder and checks if there is any file to commit
+git add <filename> - adds the file to the GIT
+git add . - adds all the files to repository
+git commit -m "type message or comments" -commits all the files present in the working directory
+git remote add origin <repo url> - adds all the files present in the folder to GIT
+git push -u origin master - all the files added to the GIT repo are placed in the GITHUB 
+git config --global user.email "email id given in GITHUB" --keerthipriya_t@outlook.com
+git config --global user.name "username given in GITHUB" --keerthitummala
+git log - all the info(modifications/actions performed) is provided
+git --help - commands that we can use with git are present here
+
+
